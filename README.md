@@ -1,0 +1,2 @@
+# Ai-project on loan approval prediction
+ This is a Loan Approval Prediction project is a Flask-based web application that uses a machine learning model to predict whether a loan applicant is eligible for approval. The system takes user input, such as income, credit history, and loan amount, processes it through a trained ML model, and provides a prediction result. The web interface allows users to enter their details easily and receive instant feedback on their loan eligibility.
